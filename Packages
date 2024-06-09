@@ -14,6 +14,22 @@ Description: 悬浮键盘，安装即生效，无设置页面。使用方式：�
 Author: sunshinesong
 Name: floating-keyboard
 
+Package: com.sunshinesong.recorder-bubble
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 304
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.sunshinesong.recorder-bubble_0.0.1_iphoneos-arm64.deb
+Size: 68770
+MD5sum: 9e612c4492a877576eb4931efbcb0657
+SHA1: ac9f9801993f47d1403dbec9f0f03fb693eb4323
+SHA256: 78b55bfb4fa36233e6ed347553d548d573670004f4e4aadee6262dd7148ce2ba
+Section: Tweaks
+Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指示器。代码已开源，需要拓展功能自行去拿。
+Author: sunshinesong
+Name: recorder-bubble
+
 Package: com.sunshinesong.split-view-pro
 Version: 1.1.4
 Architecture: iphoneos-arm64
