@@ -15,16 +15,16 @@ Author: sunshinesong
 Name: floating-keyboard
 
 Package: com.sunshinesong.native-island
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: sunshinesong
-Installed-Size: 840
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: debs/com.sunshinesong.native-island_1.0.2_iphoneos-arm64.deb
-Size: 227466
-MD5sum: 58077cff0073c1e32a95b11482666822
-SHA1: 8b2d5489f1ae7e9347bdad67bb2ea78f788dbfe9
-SHA256: 5e5bc6b6093131eb7e6c5c05cd45999c1476a9372672b688ab8474998f9d5541
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), org.thebigboss.libcolorpicker
+Filename: debs/com.sunshinesong.native-island_1.0.3_iphoneos-arm64.deb
+Size: 251422
+MD5sum: 5ac4e7a5acb7eba1173b901ce55ca109
+SHA1: 5fb4558ea134b7e480f5c441d707ed6d09f6887b
+SHA256: 0bf525a0fca35ac14b6ad69f6dd7bd5d360faacd2165e33518fbb527cdc9a276
 Section: Tweaks
 Description: 原生岛通知，从简即可。仅仅支持iOS16.0+
 Author: sunshinesong
