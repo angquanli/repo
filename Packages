@@ -44,7 +44,23 @@ SHA256: 78b55bfb4fa36233e6ed347553d548d573670004f4e4aadee6262dd7148ce2ba
 Section: Tweaks
 Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指示器。代码已开源，需要拓展功能自行去拿。
 Author: sunshinesong
-Name: recorder-bubble
+Name: recorder-bubble(rootless)
+
+Package: com.sunshinesong.recorder-bubble
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: sunshinesong
+Installed-Size: 304
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.sunshinesong.recorder-bubble_0.0.1_iphoneos-arm.deb
+Size: 69006
+MD5sum: c83bc71415551103b49318171d67c867
+SHA1: af6898fc894470a74f30c7ac96c7abb6904b0fc3
+SHA256: fed9b05a89972117b409b5dc336b65bb33439e107624836adb4a396ec2213be6
+Section: Tweaks
+Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指示器。代码已开源，需要拓展功能自行去拿。
+Author: sunshinesong
+Name: recorder-bubble(rootful)
 
 Package: com.sunshinesong.split-view-pro
 Version: 1.1.6
